@@ -35,4 +35,4 @@ app.use(placesRoutes);
 app.use(reviewsRoutes);
 app.use(usersRoutes);
 
-app.listen(4000);
+app.listen(process.env.PORT || 4000);
