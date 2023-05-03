@@ -1,0 +1,146 @@
+[
+  {
+    "id": "story1",
+    "location": "Mumbai, India",
+    "imageUrl": "/uploads/images/stories-images/story1.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 8,
+    "heading": "A Wonderful Journey to India",
+    "description":
+    "I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. ",
+    "region": "Asia",
+    "country": "India"
+  },
+  {
+    "id": "story2",
+    "location": "Barcelona, Spain",
+    "imageUrl": "/uploads/images/stories-images/story2.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 5,
+    "heading": "A Solo Trip Across Europe",
+    "description":
+    "I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people.",
+    "region": "Europe",
+    "country": "Spain"
+  },
+  {
+    "id": "story3",
+    "location": "Kathmandu, Nepal",
+    "imageUrl": "/uploads/images/stories-images/story3.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 6,
+    "heading": "11 Best Places to visit in Nepal",
+    "description":
+    "It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets.",
+    "region": "Asia",
+    "country": "Nepal"
+  },
+  {
+    "id": "story4",
+    "location": "Prague, Czech Republic",
+    "imageUrl": "/uploads/images/stories-images/story4.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 8,
+    "heading": "The Petrin Hill",
+    "description":
+    "I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague.",
+    "region": "Europe",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "story5",
+    "location": "Hawaii, United States",
+    "imageUrl": "/uploads/images/stories-images/story5.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 8,
+    "heading": "The Best Time to visit Hawaii",
+    "description":
+    "I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. ",
+    "region": "North America",
+    "country": "United States"
+  },
+  {
+    "id": "story6",
+    "location": "Puerto Rico, United States",
+    "imageUrl": "/uploads/images/stories-images/story6.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 5,
+    "heading": "10 ways to see Puerto Rico on a budget",
+    "description":
+    "I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people.",
+    "region": "North America",
+    "country": "United States"
+  },
+  {
+    "id": "story7",
+    "location": "San Antonio, Texas",
+    "imageUrl": "/uploads/images/stories-images/story7.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 7,
+    "heading": "6 Best Day Trip to San Antonio, Texas",
+    "description":
+    "It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets.",
+    "region": "North America",
+    "country": "United States"
+  },
+  {
+    "id": "story8",
+    "location": "Prague, Czech Republic",
+    "imageUrl": "/uploads/images/stories-images/story8.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 4,
+    "heading": "5 of the best places to visit as a disabled",
+    "description":
+    "I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague.",
+    "region": "Europe",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "story9",
+    "location": "Budapest, Hungary",
+    "imageUrl": "/uploads/images/stories-images/story9.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 8,
+    "heading": "Fun Visit to Budapest",
+    "description":
+    "I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. ",
+    "region": "Europe",
+    "country": "Hungary"
+  },
+  {
+    "id": "story10",
+    "location": "Athens, Greece",
+    "imageUrl": "/uploads/images/stories-images/story10.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 5,
+    "heading": "How to move around Athens",
+    "description":
+    "I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people.",
+    "region": "Europe",
+    "country": "Greece"
+  },
+  {
+    "id": "story11",
+    "location": "Banos Santa, Ecuador",
+    "imageUrl": "/uploads/images/stories-images/story11.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 6,
+    "heading": "Best Time to visit Ecuador",
+    "description":
+    "It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets.",
+    "region": "South America",
+    "country": "Ecuador"
+  },
+  {
+    "id": "story12",
+    "location": "Barcelona, Spain",
+    "imageUrl": "/uploads/images/stories-images/story12.png",
+    "creationDate": "Feb 27, 2023",
+    "timeToRead": 4,
+    "heading": "Top 15 things not to miss in Barcelona",
+    "description":
+    "I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague.",
+    "region": "Europe",
+    "country": "Spain"
+  }
+]
